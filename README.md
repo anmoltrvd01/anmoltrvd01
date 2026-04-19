@@ -1,16 +1,41 @@
-## Hi there 👋
+## Hey devs 👋
 
-<!--
-**anmoltrvd01/anmoltrvd01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Anmol Trivedi, an Android developer passionate about building real-world applications.
 
-Here are some ideas to get you started:
+```kotlin
+object AnmolTrivedi {
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    val role = "Android Developer"
+    val focus = "Building scalable mobile apps & backend systems"
+
+    val primarySkillsets = listOf("Android", "Backend")
+    val languages = listOf("Kotlin", "Java", "C++")
+
+    val technologies = listOf(
+        "MVVM", "Jetpack Compose", "REST APIs",
+        "RoomDB", "Firebase", "Coroutines", "StateFlow"
+    )
+
+    val currentlyWorkingOn = listOf(
+        "Stock Market Insights App",
+        "Mental Health AI Assistant",
+        "Spring Boot Backend Systems"
+    )
+
+    val experience = "Open Source Contributor @ Oppia Android"
+
+    val contact = "@anmoltrvd01".apply {
+        github = this
+        linkedin = this
+        email = "anmoltrvd01@gmail.com"
+    }
+}
+```
+
+---
+
+### 🚀 About Me
+- 📱 Android Developer (Kotlin, Java)
+- 🌍 Open Source Contributor @ Oppia
+- ⚙️ Exploring Backend with Spring Boot
+- 🎯 Actively looking for Android Internship opportunities
