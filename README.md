@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./githubgif.gif" alt="banner" />
 </p>
+
 ---
 
 ## Hey devs 👋
