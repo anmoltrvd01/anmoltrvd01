@@ -1,4 +1,6 @@
-![Banner](./githubgif.gif)
+<p align="center">
+  <img src="githubgif.gif" width="800"/>
+</p>
 
 ---
 
