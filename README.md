@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./banner.png" width="700"/>
-</p>
+![Banner](./githubgif.gif)
 
 ---
 
