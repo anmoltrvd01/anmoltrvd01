@@ -25,17 +25,11 @@ object AnmolTrivedi {
     val experience = "Open Source Contributor @ Oppia Android"
 
     val contact = "@anmoltrvd01".apply {
-        github = this
-        linkedin = this
+        github = "https://github.com/anmoltrvd01"
+        linkedin = "https://www.linkedin.com/in/anmoltrvd01/"
         email = "anmoltrvd01@gmail.com"
     }
 }
 ```
 
 ---
-
-### 🚀 About Me
-- 📱 Android Developer (Kotlin, Java)
-- 🌍 Open Source Contributor @ Oppia
-- ⚙️ Exploring Backend with Spring Boot
-- 🎯 Actively looking for Android Internship opportunities
