@@ -2,6 +2,7 @@
   <img src="./githubgif.gif" alt="banner" />
 </p>
 ---
+
 ## Hey devs 👋
 
 I'm Anmol Trivedi, an Android developer passionate about building real-world applications.
